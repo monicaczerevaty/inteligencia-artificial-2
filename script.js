@@ -14,8 +14,8 @@ const perguntas = [
         alternativas: ["Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento." , "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema."],
     }.
     {
-        enunciado: "Pergunta 3",
-        alternativas: ["Alternativa 1" , "Alternativa 2"],
+        enunciado: "Depois que Gabriel escreveu o trabalho, teve uma discussão sobre o impacto da IA no trabalho do futuro o que Gabriel faz:",
+        alternativas: ["Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas" , "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."],
     }.
 ];
 let atual = 0;
