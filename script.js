@@ -17,6 +17,11 @@ const perguntas = [
         enunciado: "Depois que Gabriel escreveu o trabalho, teve uma discussão sobre o impacto da IA no trabalho do futuro o que Gabriel faz:",
         alternativas: ["Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas" , "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores."],
     }.
+    {
+        enunciado: "Ao final da discussão, Gabriel precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?"
+        alternativas:["Criar uma imagem utilizando um gerador de imagem de IA.","Criar uma imagem utilizando uma plataforma de design como o Paint."]
+    }.
+
 ];
 let atual = 0;
 let perguntaAtual;
