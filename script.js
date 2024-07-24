@@ -47,9 +47,16 @@ const perguntas = [
         {
         enunciado: "Ao final da discussão, Gabriel precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?"
         alternativas:[
-            "Criar uma imagem utilizando um gerador de imagem de IA.", 
-            "Criar uma imagem utilizando uma plataforma de design como o Paint."],
-    },
+            {
+                texto: "Criar uma imagem utilizando um gerador de imagem de IA.", 
+                afirmação: "Afirmação 1"
+                }
+                {
+                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                afirmação:"Afirmação 2"    
+                }
+            ],
+        ],
 ];          
 let atual = 0;
 let perguntaAtual;
