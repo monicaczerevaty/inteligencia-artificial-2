@@ -1,3 +1,3 @@
-export function aleatorio (lista){
+export const perguntas = {
     //Trecho do código suprimido
 }
