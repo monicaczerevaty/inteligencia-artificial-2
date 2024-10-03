@@ -57,7 +57,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Os agressores de bullying devem enfrentar consequências severas ou devem receber apoio psicológico",
+        enunciado: "Os agressores de bullying devem enfrentar consequências severas ou devem receber apoio psicológico?",
         alternativas: [
             {
                 texto: "Consequências severas",
@@ -67,7 +67,7 @@ export const perguntas = [
                 proxima: 7,
                 },
             {
-                texto: "Apoio psiclogico",
+                texto: "Apoio psicologico",
                 afirmacao: [
                     " Sim todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
                 ],
