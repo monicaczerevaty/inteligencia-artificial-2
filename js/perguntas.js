@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: " Nas escolas",
                 afirmacao: [
-                    "Sim, pois parte das pessoas relatam que seu primeiro contato com o bullying foi na escola. "
+                    "Muitas pessoas relatam que seu primeiro contato com o bullying foi na escola. "
                 ],
                 proxima: 1,
                 },
@@ -31,7 +31,7 @@ export const perguntas = [
             {
                 texto: "Para se sentir superior",
                 afirmacao: [
-                    "Muitas pessoas praticam o bullying somente para se sentir superiores."
+                    "E muitas pessoas praticam o bullying somente para se sentir superiores."
                 ],
                 proxima: 4,
                 }
