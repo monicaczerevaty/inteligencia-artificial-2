@@ -43,14 +43,14 @@ export const perguntas = [
             {
                 texto: "Sozinhas",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                    "Nem todos conseguimos lidar com esses problemas sozinhos, pois com ajuda de amigos e familiares tudo se torna mais leve."
                 ],
                 proxima: 5,
                 },
             {
                 texto: "Com apoio de amigos e familiares.",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                    " Concerteza!, com ajuda de outras pessoas podemos buscar superar essa situação dicifil."
                 ],
                 proxima: 6,
                 }
@@ -62,16 +62,16 @@ export const perguntas = [
             {
                 texto: "Consequências severas",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
-                ],
+                    "Algumas pessoas praticam o bullying para suprir suas necessecidades e acabam não percebendo que magoam outras pessoas, porem devemos lembrar que nenhuma atitude ou ação justifica o bullying."
+                ], 
                 proxima: 7,
                 },
             {
                 texto: "Apoio psiclogico",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                    " Sim todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
                 ],
-                proxima: 7,
+                    proxima: 7,
                 }
         ]
     },
@@ -79,13 +79,14 @@ export const perguntas = [
         enunciado: "Você já sofreu ou praticou o bullying?",
         alternativas: [
             {
-                texto: "Sim jś sofri bullying, porém ja pratiquei",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
-            },
+                texto: "Sim ja sofri bullying, porém ja pratiquei",
+                afirmacao: " Ao se sentir ofendido foi ofender outra pessoa pra se sentir melhor, mais lembre-se a dor que você sentiu, você esta causando em outras pessoas, nenhum sentimento ruim suprira a dor que você sentiu."
+
             {
                 texto: "Nunca sofri bullying e nunca pratiquei",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
-            },
+                afirmacao: " Ficamos felizes que você nunca tenha passado por essa situação, e admiramos que nunca praticou o bullying continue assim!"
+                
+                },
         ]
     },
 ];
