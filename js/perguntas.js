@@ -71,8 +71,8 @@ export const perguntas = [
                 afirmacao: [
                     " Sim todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
                 ],
-                    proxima: 7,
-                }
+                    proxima: 8,
+                },
         ]
     },
     {
