@@ -69,7 +69,7 @@ export const perguntas = [
             {
                 texto: "Apoio psicologico",
                 afirmacao: [
-                    " Sim todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
+                    " Todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
                 ],
                     proxima: 7,
                 }
