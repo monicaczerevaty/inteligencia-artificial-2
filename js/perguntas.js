@@ -50,7 +50,7 @@ export const perguntas = [
             {
                 texto: "Com apoio de amigos e familiares.",
                 afirmacao: [
-                    " Concerteza!, com ajuda de outras pessoas podemos buscar superar essa situação dicifil."
+                    " Concerteza!, com ajuda de outras pessoas podemos buscar superar essa situação dificil."
                 ],
                 proxima: 6,
                 }
