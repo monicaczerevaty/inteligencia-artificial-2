@@ -71,8 +71,8 @@ export const perguntas = [
                 afirmacao: [
                     " Sim todos precisamos de apoio psicologico para conseguirmos entender e mudar certas atitudes, que machucam outras pessoas."
                 ],
-                    proxima: 8,
-                },
+                    proxima: 7,
+                }
         ]
     },
     {
@@ -81,12 +81,10 @@ export const perguntas = [
             {
                 texto: "Sim ja sofri bullying, porém ja pratiquei",
                 afirmacao: " Ao se sentir ofendido foi ofender outra pessoa pra se sentir melhor, mais lembre-se a dor que você sentiu, você esta causando em outras pessoas, nenhum sentimento ruim suprira a dor que você sentiu."
-          
             },
             {
                 texto: "Nunca sofri bullying e nunca pratiquei",
                 afirmacao: " Ficamos felizes que você nunca tenha passado por essa situação, e admiramos que nunca praticou o bullying continue assim!"
-
                 },
         ]
     },
